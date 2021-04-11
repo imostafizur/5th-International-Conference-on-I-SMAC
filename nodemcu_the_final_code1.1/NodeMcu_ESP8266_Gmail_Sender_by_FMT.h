@@ -16,8 +16,8 @@ class Gsender
         const int SMTP_PORT = 465;
         const char* SMTP_SERVER = "smtp.gmail.com";
         // replace the below three lines with your information
-        const char* EMAIL_LOGIN = "mahdihasan91214@gmail.com"; //sender's gmail ID
-        const char* EMAIL_PASSWORD = "mahdi91214"; //sender's gmail account's password
+        const char* EMAIL_LOGIN = "Your mail id"; //sender's gmail ID
+        const char* EMAIL_PASSWORD = "Your password"; //sender's gmail account's password
         const char* FROM = "mahdihasan91214@gmail.com"; // sender's gmail ID
         /*------------------------------------------------------*/
         const char* _error = nullptr;
