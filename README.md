@@ -1,6 +1,6 @@
 # Conference name: 5th International Conference on I-SMAC 
 
-+ [Conference Link](Website:https://i-smac.org/ismac2021/index.html)
++ [Conference](Website:https://i-smac.org/ismac2021/index.html)
 
 ## Paper Title:IoT-Based COVID-19 Suspect Smart Entrance
 Monitoring System.
