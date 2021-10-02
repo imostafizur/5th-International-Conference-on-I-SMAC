@@ -1,6 +1,6 @@
 
 # Conference name: 5th International Conference on I-SMAC 
-# CSE299 Junior Design
+### CSE299 Junior Design
 + [Conference](Website:https://i-smac.org/ismac2021/index.html)
 
 ## Paper Title:IoT-Based COVID-19 Suspect Smart Entrance
