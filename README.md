@@ -3,10 +3,10 @@
 Also used in
 ### Conference name: 5th International Conference on I-SMAC 
 
-
++ [NASA Space App 2021](https://2021.spaceappschallenge.org/locations/)
 + [Conference](Website:https://i-smac.org/ismac2021/index.html)
 
-## Paper Title:IoT-Based COVID-19 Suspect Smart Entrance
+## Project or Paper Title:IoT-Based COVID-19 Suspect Smart Entrance
 Monitoring System.
 
 Abstract—The concept of the Internet of Things (IoT) encompasses
