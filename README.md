@@ -3,8 +3,7 @@
 ### CSE299 Junior Design
 + [Conference](https://i-smac.org/ismac2021/index.html)
 + [CSE299](http://ece.northsouth.edu/courses/cse-299/)
-
-+ #### [Professor Md. Shohrab Hossain,BUET](http://mshohrabhossain.buet.ac.bd/)
++ #### [Professor Md. Shohrab Hossain](http://mshohrabhossain.buet.ac.bd/)
 ## Paper Title:IoT-Based COVID-19 Suspect Smart Entrance
 Monitoring System.
 
