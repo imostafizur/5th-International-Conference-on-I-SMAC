@@ -3,7 +3,7 @@
 
 + [Conference](Website:https://i-smac.org/ismac2021/index.html)
 
-## Project or Paper Title:IoT-Based COVID-19 Suspect Smart Entrance
+## Paper Title:IoT-Based COVID-19 Suspect Smart Entrance
 Monitoring System.
 
 Abstract—The concept of the Internet of Things (IoT) encompasses
