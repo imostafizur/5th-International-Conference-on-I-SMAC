@@ -26,5 +26,5 @@ most advantage of our system is working autonomously, cost-
 effective, and easy to implement on any campus or office.
 
 # Project View:
-![Project View](https://onedrive.live.com/?cid=90907C3BEE5B007C&id=90907C3BEE5B007C%213679&parId=90907C3BEE5B007C%212929&o=OneUp)  
+![Project View](C:\Users\indra\OneDrive\Desktop)  
 
