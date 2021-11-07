@@ -1,4 +1,4 @@
-# Conference name 
+# Conference Name
 ## 5th International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud) I-SMAC 2021
 + [Conference Link](https://i-smac.org/ismac2021/index.html)
 
