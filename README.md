@@ -26,4 +26,6 @@ sends an email to the suspected people notifying their illness. The
 most advantage of our system is working autonomously, cost-
 effective, and easy to implement on any campus or office.
 
-# Project View:
+
+![Project View](https://1.bp.blogspot.com/-_KkwnawtmFk/X1qaYfctUII/AAAAAAABbH0/lEg1aOjnnzYNhtwvxwb1hcMWMQTQRpLVACLcBGAsYHQ/s1600/WhoppingDenseChick-size_restricted.gif)  
+
