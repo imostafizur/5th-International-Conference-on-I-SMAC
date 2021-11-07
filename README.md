@@ -1,9 +1,10 @@
-# Conference name: 5th International Conference on I-SMAC 
+# Conference name 
+## 5th International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud) I-SMAC 2021
 ## CSE299 Junior Design
 + [Conference](https://i-smac.org/ismac2021/index.html)
 + [CSE299](http://ece.northsouth.edu/courses/cse-299/)
 
-# Paper Title: 
+# Paper Title
 ## IoT-Based COVID-19 Suspect Smart Entrance Monitoring System.
 
 Abstract—The concept of the Internet of Things (IoT) encompasses
@@ -26,6 +27,6 @@ sends an email to the suspected people notifying their illness. The
 most advantage of our system is working autonomously, cost-
 effective, and easy to implement on any campus or office.
 
-# Project View:
+# Project View
 ![Project View](https://user-images.githubusercontent.com/64844201/140640110-69ed49dc-5984-4880-af34-b061ab9871bf.jpeg)
 
