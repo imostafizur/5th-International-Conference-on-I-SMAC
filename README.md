@@ -1,4 +1,3 @@
-
 # Conference name: 5th International Conference on I-SMAC 
 ## CSE299 Junior Design
 + [Conference](https://i-smac.org/ismac2021/index.html)
@@ -27,5 +26,5 @@ most advantage of our system is working autonomously, cost-
 effective, and easy to implement on any campus or office.
 
 # Project View:
-![Project View](https://1.bp.blogspot.com/-_KkwnawtmFk/X1qaYfctUII/AAAAAAABbH0/lEg1aOjnnzYNhtwvxwb1hcMWMQTQRpLVACLcBGAsYHQ/s1600/WhoppingDenseChick-size_restricted.gif)  
+![Project View](https://onedrive.live.com/?cid=90907C3BEE5B007C&id=90907C3BEE5B007C%213679&parId=90907C3BEE5B007C%212929&o=OneUp)  
 
