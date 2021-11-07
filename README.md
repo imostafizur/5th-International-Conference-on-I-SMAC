@@ -5,7 +5,7 @@
 # Paper Title
 ## IoT-Based COVID-19 Suspect Smart Entrance Monitoring System.
 
-Abstract—The concept of the Internet of Things (IoT) encompasses
+#Abstract—The concept of the Internet of Things (IoT) encompasses
 the connection and monitoring of various remote objects in the real
 world through the Internet. The COVID-19 is very infectious, and
 it spreads super-fast by contacting other COVID infected people.
