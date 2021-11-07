@@ -3,7 +3,8 @@
 + [Conference](https://i-smac.org/ismac2021/index.html)
 + [CSE299](http://ece.northsouth.edu/courses/cse-299/)
 
-# Paper Title: IoT-Based COVID-19 Suspect Smart Entrance Monitoring System.
+# Paper Title: 
+## IoT-Based COVID-19 Suspect Smart Entrance Monitoring System.
 
 Abstract—The concept of the Internet of Things (IoT) encompasses
 the connection and monitoring of various remote objects in the real
