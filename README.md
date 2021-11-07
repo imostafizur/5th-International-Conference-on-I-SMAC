@@ -26,3 +26,5 @@ level, the system blocks the person from entering the campus and
 sends an email to the suspected people notifying their illness. The
 most advantage of our system is working autonomously, cost-
 effective, and easy to implement on any campus or office.
+
+# Project View:
