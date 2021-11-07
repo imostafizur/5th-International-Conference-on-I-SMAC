@@ -1,6 +1,6 @@
 
 # Conference name: 5th International Conference on I-SMAC 
-### CSE299 Junior Design
+## CSE299 Junior Design
 + [Conference](https://i-smac.org/ismac2021/index.html)
 + [CSE299](http://ece.northsouth.edu/courses/cse-299/)
 
