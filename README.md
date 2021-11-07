@@ -26,5 +26,5 @@ most advantage of our system is working autonomously, cost-
 effective, and easy to implement on any campus or office.
 
 # Project View:
-![Project View](C:\Users\indra\OneDrive\Desktop)  
+![Project View](https://user-images.githubusercontent.com/64844201/140640110-69ed49dc-5984-4880-af34-b061ab9871bf.jpeg)
 
