@@ -1,0 +1,47 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  IoT-Based COVID-19 Suspect Smart Entrance Monitoring
+  System
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Mostafizur '
+    family-names: Rahman
+    name-particle: Mostafizur
+    email: mostafizur.rahman10@northsouth.edu
+    affiliation: 'North South University '
+    name-suffix: Rahman
+    orcid: 'https://orcid.org/0000-0002-5239-9530'
+identifiers:
+  - type: doi
+    value: 10.1109/I-SMAC52330.2021.9641016
+repository-code: >-
+  https://github.com/imostafizur/IoT-Based-COVID-19-Suspect-Smart-Entrance-Monitoring-System.git
+abstract: >-
+  The concept of the Internet of Things (IoT) encompasses
+  the connection and monitoring of various remote objects in
+  the real world through the Internet. The COVID-19 is very
+  infectious, and it spreads super-fast by contacting other
+  COVID infected people. There have been few works on COVID
+  detection and prevention in resent time. However, none of
+  the existing works proposed any automatic IoT-based remote
+  blocking system so our work is an autonomous system to
+  stop entering in the campus the COVID suspected. The aim
+  of this work is to detect COVID-19 suspect people and stop
+  them from contacting other people. The proposed system is
+  implemented by using IoT devices. The proposed system
+  first measures the body temperature and Second measures
+  blood oxygen level checks whether it exceeds the World
+  Health Organization (WHO) recommended body temperature and
+  blood oxygen level. In case of high body temperature or
+  low blood oxygen level, the system blocks the person from
+  entering the campus and sends an email to the suspected
+  people notifying their illness. The most advantage of our
+  system is working autonomously, cost-effective, and easy
+  to implement on any campus or office.
+license: MIT
